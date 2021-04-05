@@ -10,6 +10,7 @@ namespace Multiples3and5
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
